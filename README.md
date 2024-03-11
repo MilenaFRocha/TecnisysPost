@@ -45,6 +45,9 @@ Plataforma desenvolvida pela TecniSys para gereciamento e apoio de banco de dado
   - `pgsmart cluster config`
 - Para ver entra no `psql ` e ` select * from pg_hba_file_rules;`
 
+## GitHub do PostGres
+- ![image](https://github.com/MilenaFRocha/TecnisysPost/assets/104432227/dbd49934-a104-4205-bf88-856e2b862478)
+
     
 
  
