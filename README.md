@@ -40,6 +40,10 @@ Plataforma desenvolvida pela TecniSys para gereciamento e apoio de banco de dado
     - Boas Práticas
       - ![image](https://github.com/MilenaFRocha/TecnisysPost/assets/104432227/16d134f5-c159-45f0-93e4-d48276568006)
 
+## Configurando o cluster para acesso
+- Pelo pgsmart bem mais fácil , se fosse poderia editar o arquivo Pg_hba.conf por qualquer editor (vim,etc)
+  - `pgsmart cluster config`
+- Para ver entra no `psql ` e ` select * from pg_hba_file_rules;`
 
     
 
