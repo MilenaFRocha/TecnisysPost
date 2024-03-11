@@ -30,3 +30,18 @@ Plataforma desenvolvida pela TecniSys para gereciamento e apoio de banco de dado
 
 - Aluno : obj do tipo table que será convertida para número lá na lista do postgres
 
+  ## Objeto de sistemas
+    - Grant dá acesso aos usuários ,não à roles, para conceder também o mesmo acesso
+      - ![image](https://github.com/MilenaFRocha/TecnisysPost/assets/104432227/cfe81e6f-3f18-4fd6-bfe4-d104ad8653aa)
+    - Para remover em forma cascata
+      - ![image](https://github.com/MilenaFRocha/TecnisysPost/assets/104432227/27a03779-2704-4f33-8aa6-2236e9272a98)
+    - RLS
+      - ![image](https://github.com/MilenaFRocha/TecnisysPost/assets/104432227/77b8773b-4e51-4346-8e45-8cb0049c618f)
+    - Boas Práticas
+      - ![image](https://github.com/MilenaFRocha/TecnisysPost/assets/104432227/16d134f5-c159-45f0-93e4-d48276568006)
+
+
+    
+
+ 
+
