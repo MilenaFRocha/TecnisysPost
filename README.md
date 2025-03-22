@@ -1,6 +1,6 @@
 # Big Data Práticas e Estudo
 
-Este repositório é dedicado ao meu estudo de **Big Data** com a **TecniSys**, abrangendo dois cursos principais: **Postgresys** e **TDP**. Aqui, você encontrará práticas, resumos, exercícios e aprendizados adquiridos ao longo do estudo. Para mais informações sobre os cursos, acesse [TecnSys - Treinamento e Certificação](https://www.tecnisys.com.br/treinamento-certificacao/).ds
+Este repositório é dedicado ao meu estudo de **Big Data** com a **TecniSys**, abrangendo dois cursos principais: **Postgresys** e **TDP**. Aqui, você encontrará práticas, resumos, exercícios e aprendizados adquiridos ao longo do estudo. Para mais informações sobre os cursos, acesse [TecnSys - Treinamento e Certificação](https://www.tecnisys.com.br/treinamento-certificacao/).
 
 ## Cursos
 
@@ -10,4 +10,11 @@ Este repositório é dedicado ao meu estudo de **Big Data** com a **TecniSys**, 
 ## Estrutura do Repositório
 
 Este repositório está dividido em diferentes pastas de acordo com os cursos e áreas de estudo. Abaixo está a descrição de cada pasta:
+
+├── PostgreSYS
+    └── resumo_postgresys.md
+├── README.md
+└── TDP
+    └── Airflow
+        └── resumo_airflow.md
 
