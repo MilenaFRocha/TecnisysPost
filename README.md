@@ -1,6 +1,6 @@
 # Big Data Práticas e Estudo
 
-Este repositório é dedicado ao meu estudo de **Big Data** com a TecniSys, abrangendo dois cursos principais: **Postgresys** e **TDP**. Aqui, você encontrará práticas, resumos, exercícios e aprendizados adquiridos ao longo do estudo.
+Este repositório é dedicado ao meu estudo de **Big Data** com a **TecniSys**, abrangendo dois cursos principais: **Postgresys** e **TDP**. Aqui, você encontrará práticas, resumos, exercícios e aprendizados adquiridos ao longo do estudo. Para mais informações sobre os cursos, acesse [TecnSys - Treinamento e Certificação](https://www.tecnisys.com.br/treinamento-certificacao/).ds
 
 ## Cursos
 
