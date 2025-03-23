@@ -11,10 +11,18 @@ Este repositório é dedicado ao meu estudo de **Big Data** com a **TecniSys**, 
 
 Este repositório está dividido em diferentes pastas de acordo com os cursos e áreas de estudo. Abaixo está a descrição de cada pasta:
 
-├── PostgreSYS
-    └── resumo_postgresys.md
-├── README.md
-└── TDP
-    └── Airflow
-        └── resumo_airflow.md
+PostgreSYS/
+|
+|__ resumo_postgresys.md
+
+README.md
+
+TDP/
+|
+|__Airflow/
+    |
+    └── resumo_airflow.md
+
+
+
 
